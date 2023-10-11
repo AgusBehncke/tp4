@@ -4,17 +4,16 @@ Trabajo Practico
 
 # Carpeta Build con Libs:
 
-https://drive.google.com/drive/folders/1x-mYcWuWIQSMk3PqxvRIx_LU6o0ANDoT
+https://drive.google.com/drive/folders/1SCBayRzucZCoo57xr8ZcKqUwAm-gEH7I
 
 # Captura Render (live)
 
-Deploy: https://trabajopractico4.onrender.com
 
-![Captura](https://github.com/JoaquinMS/Tp4-ApiRest/assets/118018407/5c6e715a-5443-4ea1-82cd-0dcae223a4ca)
+![Captura de pantalla 2023-10-07 212423](https://github.com/AgusBehncke/tp4/assets/142950188/ec1c0dee-39a8-4966-b3c8-116fd5d3c150)
 
 # Diagrama de clases
 
-![Captura](https://github.com/JoaquinMS/Tp4-ApiRest/assets/118018407/b8c5635d-a23a-475b-8d20-78e3bf84c9e6)
+![dc](https://github.com/AgusBehncke/tp4/assets/142950188/bf525b85-6783-4067-8c67-bd34a4dd78b7)
 
 
 
